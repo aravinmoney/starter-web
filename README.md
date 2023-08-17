@@ -10,3 +10,6 @@ This repository for development purpose
 ## Purpose
 
 Sample website with plenty of files for demos
+
+added new line in read
+
