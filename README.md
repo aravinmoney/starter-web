@@ -1,12 +1,12 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work 
 
 ##Deployment 
 This repository for development purpose
 
 ##failed
-failed to start the repo
+failed to start the repo for in the git
 
 ## Purpose
 
