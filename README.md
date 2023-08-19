@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 This repository for development purpose
 
 ##failed
+failed to start the repo
 
 ## Purpose
 
