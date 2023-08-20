@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 added new line in read
 
+##Copy Right
+add the copy right.
